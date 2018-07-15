@@ -16,7 +16,7 @@ TRESM (Total Revenue per Equivalent Seat Mile) and PRESM (Passenger Revenue per 
 The data used in the project was sourced from teh ADP website and cleaned the purpose of this study. The dataset can be viewed at the following [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1vhxS5A3Xh026HTdob0vpF_dvyT493IxhdFON2ptJ2GE)
 
 ### Quick Start
-The data and visualizations can be viewed in the Jupyter Notebook hosted in Github.
+The data and visualizations can be viewed in the [Jupyter Notebook hosted in Github](https://github.com/ricardo-hdz/airlines-data/blob/master/airline_revenue_project.ipynb).
 
 Alternatively, you can clone the repo, explore the data and remix the project.
 
